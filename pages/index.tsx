@@ -5,7 +5,7 @@ const IndexPage = () => (
     <img
       src="/images/xera.svg"
       alt="Themeptation "
-      className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10"
+      className="absolute h-96 -top-10 lg:right-5 lg:top-10"
     />
     <img src="/images/shapes.svg" alt="hero" className="absolute w-full" />
     <div className="relative z-10 py-6 space-y-16 lg:space-y-32 text-gray-900">
